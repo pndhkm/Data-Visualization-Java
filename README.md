@@ -16,6 +16,7 @@ Proyek ini menggambarkan visualisasi dari data kunjungan situs e-commerce terken
 
 ## Screenshot
 ![ss](assets/ss.gif)
+[Source Code](src/graphicchart/AnimatedBarChart.java)
 
 ## Kesimpulan
 Visualisasi data dengan grafik yang animasi memberikan perspektif yang lebih dinamis terhadap data. Dengan teknik ini, kita bisa mendapatkan gambaran lebih baik tentang bagaimana data berubah seiring waktu atau dalam kondisi tertentu.
